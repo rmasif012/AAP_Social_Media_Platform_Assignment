@@ -12,3 +12,7 @@ Key Features:
 💬 User Interaction: Includes features like commenting and discussion threads to promote active user engagement.
 
 Check out the repository to see the source code and learn more about the implementation.
+
+Sign Up Page 
+![image](https://github.com/user-attachments/assets/d0bf166b-ee1d-4e05-a3b2-ab211293f79c)
+
