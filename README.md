@@ -50,3 +50,6 @@ To run the project locally:
 1. Clone the repository  
    ```bash
    https://github.com/rmasif012/AAP_Social_Media_Platform_Assignment
+
+
+> 💡 *Note: This is a front-end only project. No backend or database is connected.*
