@@ -1,38 +1,52 @@
+# 📘 AAP Course Project – Social Media Platform
 
-📘 AAP Course Project – Social Media Platform
-This was a basic design-focused assignment for the AAP course, aimed at building foundational skills in interface development and user engagement. The project involved creating a simple social media platform concept centered around sharing and discussing newsletter-based news content.
+This is a design-focused project created for the AAP course to build foundational skills in front-end development and user engagement. The concept revolves around a simple social media platform where users can share and discuss newsletter-based news content.
 
-Key Features:
+---
 
-📰 Newsletter-Centric Layout: A minimal feed-style design for browsing and sharing news articles.
+## 🔑 Key Features
 
-🎨 Basic HTML & CSS Interface: Developed with a focus on clean structure, readability, and layout clarity.
+- 📰 **Newsletter-Centric Layout**: A minimal, feed-style design for browsing and sharing news articles.
+- 🎨 **Basic HTML & CSS Interface**: Clean structure focused on readability and layout clarity.
+- 💬 **Introductory Interactivity**: Simple comment sections to promote user discussion.
 
-💬 Introductory Interactive Elements: Simple features like comment sections to encourage user interaction.
+---
 
-This project served as an introduction to front-end development concepts and user-focused design in a social media context.
+## 🛠️ Tech Stack
 
+- HTML5
+- CSS3
 
+---
 
-![image](https://github.com/user-attachments/assets/5c4f69cc-5e6e-4754-b95d-3c48bb43109e)
-![image](https://github.com/user-attachments/assets/3591b134-892c-4611-b2e4-767ce21bdcce)
+## 🖼️ Screenshots
 
-
-
-
-
-
-Sign Up Page:
-
-![image](https://github.com/user-attachments/assets/d0bf166b-ee1d-4e05-a3b2-ab211293f79c)
-
+### 📰Main Page
+![image](https://github.com/user-attachments/assets/974face5-cb64-46d2-bf3c-875ae69f35e1)
+![image](https://github.com/user-attachments/assets/c9ec8684-3b0c-42e2-86e5-5ec3c685d8d8)
 
 
 
+### 📝 Sign-In Page
+![image](https://github.com/user-attachments/assets/084f9006-c490-4354-8ae4-fa329d67feda)
 
 
-Profile Page:
+### 👤 Profile Page
+![image](https://github.com/user-attachments/assets/6e7a6a35-9f5e-4993-abc4-95f22ab96287)
+![image](https://github.com/user-attachments/assets/e6da5a5a-71ed-4494-a4b2-8973b751401e)
 
-![image](https://github.com/user-attachments/assets/c735c3f9-07af-49fd-bec9-676333d1e7fd)
-![image](https://github.com/user-attachments/assets/54d4d5b1-25f8-4e7d-911b-49385110f9df)
 
+
+### 📞 Contact us Page:
+![image](https://github.com/user-attachments/assets/dd3e78c3-4085-499a-b9b1-79c3b38f4693)
+
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+1. Clone the repository  
+   ```bash
+   git clone https://github.com/your-username/your-repo-name.git
