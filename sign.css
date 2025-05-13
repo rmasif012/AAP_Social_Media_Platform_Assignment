@@ -1,0 +1,263 @@
+/* Reset default margin and padding */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the navigation bar */
+.navbar {
+    background-color: rgb(142, 215, 142);
+    border-bottom: 3px solid darkgreen;
+    display: flex;
+    align-items: center;
+    padding: 10px 20px;
+}
+.image {
+    width: 40px; /* Adjust the width to make the image smaller */
+    height: 40px; /* Maintain aspect ratio */
+}
+
+/* Style for the title */
+.title {
+    font-size: 30px;
+    font-weight: bold;
+    margin-right: auto; /* Push the title to the left */
+  
+    
+}
+
+/* Style for the menu links */
+.menu a {
+    text-decoration: none;
+    color: black;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+/* Style for the menu links on hover */
+.menu a:hover {
+    color: white;
+}
+
+/* Style for the "Get Started" link with oval shape and shadow */
+.menu a:last-child {
+    background-color: darkgreen;
+    color: white;
+    border-radius: 50px;
+    padding: 10px 20px;
+    text-align: center;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+}
+
+/* Hover effect for the "Get Started" link */
+.menu a:last-child:hover {
+    background-color: darkgreen; /* You can adjust this as needed */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.6); /* Adjust shadow on hover */
+}
+
+/* Update the main section to align text to the left */
+.main-section {
+    background-color: darkgreen;
+    padding: 130px;
+    color: white;
+}
+
+/* Style for the section title */
+.section-title {
+    font-size: 70px;
+    font-weight: bold;
+    text-align: left; /* Align the title to the left */
+}
+
+/* Style for the tagline */
+.tagline {
+    font-size: 20px;
+    margin: 20px 0;
+    text-align: left; /* Align the tagline to the left */
+}
+
+/* Style for the "Know more" button */
+.know-more-button {
+    background-color: white;
+    color: darkgreen;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    text-align: left; /* Align the button to the left */
+}
+
+/* Hover effect for the button */
+.know-more-button:hover {
+    background-color: lightgray;
+}
+/* Style for the new section */
+.info-section {
+    background-color: white; /* Change the background color to white */
+    padding: 50px 20px;
+    color: darkgreen; /* Change text color to darkgreen */
+    margin-top: 20px; /* Add some space between the two sections */
+    border-top: 3px solid darkgreen; /* Add a top border for separation */
+}
+
+/* Update the section subtitle color */
+.section-subtitle {
+    font-size: 36px;
+    font-weight: bold;
+    color: darkgreen; /* Change the subtitle color to darkgreen */
+}
+
+/* Style for the columns with a dark border */
+/* Add style for the new points */
+.info-section {
+    background-color: white;
+    padding: 50px 20px;
+    color: darkgreen;
+    margin-top: 20px;
+    border-top: 3px solid darkgreen;
+}
+
+/* Style for the section subtitle */
+.section-subtitle {
+    font-size: 36px;
+    font-weight: bold;
+    color: darkgreen;
+}
+
+/* Style for the columns with a dark border */
+.info-columns {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-top: 2px solid darkgreen;
+    padding-top: 20px;
+}
+
+/* Style for each column */
+.info-column {
+    flex: 0 0 calc(33.33% - 20px);
+    box-sizing: border-box;
+    padding: 20px;
+    border-left: 2px solid darkgreen;
+}
+
+/* Style for column headings */
+.info-column h3 {
+    font-size: 24px;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.4); /* Add a light shadow */
+}
+
+/* Style for column text */
+.info-column p {
+    font-size: 18px;
+}
+
+/* Style for the new points */
+.info-columns:last-child {
+    border-top: 2px solid darkgreen;
+    padding-top: 20px;
+}
+
+/* Style for each new column */
+.info-columns:last-child .info-column {
+    flex: 0 0 calc(33.33% - 20px);
+    box-sizing: border-box;
+    padding: 20px;
+    border-left: 2px solid darkgreen;
+}
+
+/* Style for headings of the new points */
+.info-columns:last-child .info-column h3 {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+/* Style for text of the new points */
+.info-columns:last-child .info-column p {
+    font-size: 18px;
+}
+
+
+ /* Style for the search bar */
+ .search-bar {
+    width: 300px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-size: 16px;
+
+}
+
+/* Style for the search button */
+.search-button {
+    background-color: #afb7b2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/* Search bar and user account icon styles */
+.search {
+    display: flex;
+    align-items: center;
+}
+
+.search input {
+    width: 150px;
+    padding: 5px;
+    margin-right: 10px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+}
+
+.search button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    color: #555;
+}
+
+.user-account a {
+    color: #555;
+    text-decoration: none;
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+
+/* Add inline styles for the search container */
+        .search {
+            display: flex;
+            align-items: center;
+        }
+        
+        /* Add inline styles for the search input */
+        .search-input {
+            padding: 10px;
+            border: 1px solid #00ff73;
+            border-radius: 5px;
+            margin-right: 10px;
+            font-size: 16px;
+            width: 200px; /* Adjust the width as needed */
+        }
+        
+        /* Add inline styles for the search button */
+        .search-button {
+            background-color: #007bff; /* Change to your preferred button color */
+            color: #fff;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+        }
+        
+        /* Style the search button when hovered over */
+        .search-button:hover {
+            background-color: #aedabd; /* Change to your preferred hover color */
+        }
