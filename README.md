@@ -49,4 +49,4 @@ To run the project locally:
 
 1. Clone the repository  
    ```bash
-   git clone:  https://github.com/rmasif012/AAP_Social_Media_Platform_Assignment.git
+   git clone https://github.com/rmasif012/AAP_Social_Media_Platform_Assignment
